@@ -1,0 +1,19 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "hello world api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "andrew jackman",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.3.1",
+    "npm": "^5.8.0"
+  }
+}
